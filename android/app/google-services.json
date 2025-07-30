@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "75030496280",
+    "project_id": "helpbeacon-915e5",
+    "storage_bucket": "helpbeacon-915e5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75030496280:android:063fa272f76d8603eaef6d",
+        "android_client_info": {
+          "package_name": "com.example.helpbeacon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwONcGhuGqClJ5dtI8X_e2X7CyQCZa9eQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

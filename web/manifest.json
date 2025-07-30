@@ -1,6 +1,6 @@
 {
-    "name": "help_beacon",
-    "short_name": "help_beacon",
+    "name": "helpbeacon",
+    "short_name": "helpbeacon",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
